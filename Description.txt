@@ -1,0 +1,1 @@
+Voila ici j'espère vraiment avoir compris les bases de git et github que je trouve très interessant, je vais joindre aussi quelque ligne de code en python dans un autre fichier ou je montrerai des petits truc que j'ai déjà appris a faire en python. =)
